@@ -1,9 +1,9 @@
 # 윤 영 *YUN YOUNG*
 👩‍💻 Software Developer  
-👩‍🎓 Namseoul Univ. Computer Engineering  
+👩‍🎓 Namseoul Univ. Computer Engineering
   
 [![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://www.java.com/ko/)
-[![Spring Badge](https://img.shields.io/badge/Spring-#51cf66?style=flat-square&logo=Spring&logoColor=white)](https://spring.io/)
+[![Spring Badge](https://img.shields.io/badge/Spring-51cf66?style=flat-square&logo=Spring&logoColor=white)](https://spring.io/)
 
   
 ✨ *For More Info...* **[BLOG](https://yunyoung1819.tistory.com/)** | **[RESUME](https://www.linkedin.com/in/young-yun-60aa94163/)**
