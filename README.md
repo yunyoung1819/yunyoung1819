@@ -7,6 +7,7 @@
 [![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://www.java.com/ko/)
 [![JPA Badge](https://img.shields.io/badge/JPA-f06595?style=flat-square&logo=Hibernate&logoColor=white)](https://www.oracle.com/java/technologies/persistence-jsp.html)
 [![Spring Badge](https://img.shields.io/badge/Spring-51cf66?style=flat-square&logo=Spring&logoColor=white)](https://spring.io/)
+[![Redis Badge](https://img.shields.io/badge/Redis-#fa5252?style=flat-square&logo=Redis&logoColor=white)](https://redis.io/)
 [![ElasticSearch Badge](https://img.shields.io/badge/ElasticSearch-4c6ef5?style=flat-square&logo=ElasticSearch&logoColor=white)](https://www.elastic.co/kr/?ultron=B-Stack-Trials-APJ-KR-Exact&gambit=Stack-Core&blade=adwordss&hulk=paid&Device=c&thor=elasticsearch&gclid=CjwKCAjw5c6LBhBdEiwAP9ejG6teiznxdKJInlRwzb4iYeVBQTbXOeTcL37juZWjr_nKNPlSb0vXixoCygwQAvD_BwE)
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://javascript.info/)
 [![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
