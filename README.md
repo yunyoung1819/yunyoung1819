@@ -13,8 +13,7 @@
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
 [![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)](https://sass-lang.com/)
   
-✨ *For More Info...* **[BLOG](https://yunyoung1819.tistory.com/)** | **[RESUME](https://www.linkedin.com/in/young-yun-60aa94163/)**
-
+✨ *For More Info...* **[BLOG](https://yunyoung1819.tistory.com/)**
 
 **NKIA** @NKIA <sub><sup>EMS 연구소 / Software Engineer (2019.04 ~ 현재)</sup></sub>  
 **ESE Co., Ltd** @ESE Co., Ltd <sub><sup>스마트시티 RINO 솔루션개발본부 / Software Engineer (2016.08 ~ 2018.09)</sup></sub>  
