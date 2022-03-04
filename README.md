@@ -1,8 +1,8 @@
 # 윤 영 *YUN YOUNG*
-👩‍💻 Software BE Developer  
-👩‍🎓 Namseoul Univ. Computer Engineering
+👨 Software BE Developer  
+🎓 Namseoul Univ. Computer Engineering
 <br>
-👩‍🎓 BitCamp. Java Programming 79th
+🎓 BitCamp. Java Programming 79th
   
 [![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://www.java.com/ko/)
 [![JPA Badge](https://img.shields.io/badge/JPA-f06595?style=flat-square&logo=Hibernate&logoColor=white)](https://www.oracle.com/java/technologies/persistence-jsp.html)
