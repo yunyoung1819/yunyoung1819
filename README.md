@@ -15,7 +15,7 @@
 [![AWS Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/)   
   
-✨ *For More Info...* **[BLOG](https://yunyoung1819.tistory.com/)** | **[RESUME](https://www.linkedin.com/in/young-yun-60aa94163/)**
+✨ *For More Info...* **[BLOG](https://yunyoung1819.tistory.com/)**
 
 **NKIA** @NKIA <sub><sup>EMS 연구소 / Software Engineer (2019.04 ~ 현재)</sup></sub>  
 **ESE Co., Ltd** @ESE Co., Ltd <sub><sup>스마트시티 RINO 솔루션개발본부 / Software Engineer (2016.08 ~ 2018.09)</sup></sub>  
