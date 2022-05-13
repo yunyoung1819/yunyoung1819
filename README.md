@@ -1,6 +1,7 @@
 # 윤 영 *YUN YOUNG*
 👨 Software BE Developer  
 🎓 Namseoul Univ. Computer Engineering
+<br>
 🎓 KAIST Univ. AI Intensive Course Completion
 <br>
 🎓 BitCamp. Java Advanced Programming 79th
