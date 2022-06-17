@@ -1,5 +1,5 @@
 # 윤 영 *YUN YOUNG*
-👨 Software BE Developer  
+👨 Software Backend Developer  
 🎓 Namseoul Univ. Computer Engineering
 <br>
 🎓 KAIST Univ. AI Machine Learning Intensive Course Completion
