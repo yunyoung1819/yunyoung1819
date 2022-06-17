@@ -2,7 +2,7 @@
 👨 Software BE Developer  
 🎓 Namseoul Univ. Computer Engineering
 <br>
-🎓 KAIST Univ. AI Intensive Course Completion
+🎓 KAIST Univ. AI Machine Learning Intensive Course Completion
 <br>
 🎓 BitCamp. Java Advanced Programming 79th
   
