@@ -18,8 +18,10 @@
   
 ✨ *For More Info...* **[BLOG](https://yunyoung1819.tistory.com/)**
 
+<br>
+
 <h2>💼 Job</h2>
-- **NKIA** @NKIA <sub><sup>EMS 연구소 / Software Developer (2019.04 ~ 현재)</sup></sub>  
+- **NKIA** @NKIA <sub><sup>EMS 연구소 / Software Developer (2019.04 ~ 현재)</sup></sub>
 - **ESE Co., Ltd** @ESE Co., Ltd <sub><sup>스마트시티 RINO 솔루션개발본부 / Software Developer (2016.08 ~ 2018.09)</sup></sub>  
 - **NHN Entertainment** @NHN Entertainment <sub><sup>Software Test Engineer (2015.04 ~ 2015.10)</sup></sub> 
 
