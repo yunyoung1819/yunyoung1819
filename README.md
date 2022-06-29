@@ -18,17 +18,15 @@
   
 ✨ *For More Info...* **[BLOG](https://yunyoung1819.tistory.com/)**
 
-<br>
+- **NKIA** @NKIA <sub> EMS 연구소 / Software Developer (2019.04 ~ 현재) </sub>
+- **ESE Co., Ltd** @ESE Co., Ltd <sub> 스마트시티 RINO 솔루션개발본부 / Software Developer (2016.08 ~ 2018.09) </sub>  
+- **NHN Entertainment** @NHN Entertainment <sup>Software Test Engineer (2015.04 ~ 2015.10)</sup>
 
-<h2>💼 Job</h2>
-- **NKIA** @NKIA <sub><sup>EMS 연구소 / Software Developer (2019.04 ~ 현재)</sup></sub>
-- **ESE Co., Ltd** @ESE Co., Ltd <sub><sup>스마트시티 RINO 솔루션개발본부 / Software Developer (2016.08 ~ 2018.09)</sup></sub>  
-- **NHN Entertainment** @NHN Entertainment <sub><sup>Software Test Engineer (2015.04 ~ 2015.10)</sup></sub> 
+------------------------------------------------------------------------------------------------------------------------------------
 
-<h2>💻 Career</h2>
-- **디프만 11기** @Depromeet <sub><sup> PM | Backend 개발자 (2022.03 ~ 2022.07) </sup></sub>
-- **DND 6기** @DND <sub><sup> Backend 개발자 (2022.01 ~ 2022.02) </sup></sub>  
-- **디프만 10기** @Depromeet <sub><sup> Backend 개발자 (2021.09 ~ 2021.12) </sup></sub> 
+- **디프만 11기** @Depromeet <sup> PM | Backend 개발자 (2022.03 ~ 2022.07) </sup>
+- **DND 6기** @DND <sup> Backend 개발자 (2022.01 ~ 2022.02) </sup>
+- **디프만 10기** @Depromeet <sup> Backend 개발자 (2021.09 ~ 2021.12) </sup>
   
 <br>
 
