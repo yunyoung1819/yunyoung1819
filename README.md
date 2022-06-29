@@ -20,13 +20,10 @@
   
 ✨ *For More Info...* **[BLOG](https://yunyoung1819.tistory.com/)**
 
-<h2>💼 Job</h2>
 - **NKIA** @NKIA <sub><sup>EMS 연구소 / Software Engineer (2019.04 ~ 현재)</sup></sub>  
 - **ESE Co., Ltd** @ESE Co., Ltd <sub><sup>스마트시티 RINO 솔루션개발본부 / Software Engineer (2016.08 ~ 2018.09)</sup></sub>  
 - **NHN Entertainment** @NHN Entertainment <sub><sup>Software Test Engineer (2015.04 ~ 2015.10)</sup></sub>  
   
-<h2>💻 Career</h2>
-- <a href="https://github.com/depromeet">디프만 11th</a> BackEnd Developer
 <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunyoung1819&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
