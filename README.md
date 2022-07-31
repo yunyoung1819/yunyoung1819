@@ -5,7 +5,7 @@
 👨 Software Backend Developer  
 🏛 Namseoul Univ. Computer Engineering
 <br>
-🎓 KAIST Univ. Machinelearning AI Intensive Course Completion
+🎓 KAIST Univ & Seoungnam-Si AI Intensive Course Completion
 <br>
 🎓 BitCamp. Java Advanced Programming 79th
   
