@@ -5,7 +5,7 @@
 👨 Software Backend Developer  
 🏛 Namseoul Univ. Computer Engineering
 <br>
-🎓 KAIST Univ & Seoungnam-Si AI Intensive Course Completion
+🎓 KAIST Univ AI Intensive Course Completion
 <br>
 🎓 BitCamp. Java Advanced Programming 79th
   
@@ -23,7 +23,7 @@
 
 - **NKIA** @NKIA  EMS 연구소 / Software Developer (2019.04 ~ 현재) 
 - **ESE Co., Ltd** @ESE Co., Ltd  스마트시티 RINO 솔루션개발본부 / Software Developer (2016.08 ~ 2018.09)
-- **NHN Entertainment** @NHN Entertainment  Software Test Engineer (2015.04 ~ 2015.10)
+- **NHN** @NHN Software Test Engineer (2015.04 ~ 2015.10)
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
