@@ -21,7 +21,7 @@
   
 ✨ *For More Info...* **[BLOG](https://yunyoung1819.tistory.com/)**
 
-- **NKIA** @NKIA  EMS 연구소 / Software Developer (2019.04 ~ 현재) 
+- **NKIA** @NKIA  EMS 연구소 / Software Developer (2019.04 ~ 2023.03.03) 
 - **ESE Co., Ltd** @ESE Co., Ltd  스마트시티 RINO 솔루션개발본부 / Software Developer (2016.08 ~ 2018.09)
 - **NHN** @NHN Software Test Engineer (2015.04 ~ 2015.10)
 
