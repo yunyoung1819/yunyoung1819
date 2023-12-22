@@ -22,7 +22,7 @@
 ✨ *For More Info...* **[BLOG](https://yunyoung1819.tistory.com/)**
 
 - **레진엔터테인먼트** @레진코믹스 서비스개발팀 / Software Developer (2023.09 ~ 현재)
-- **NKIA** @NKIA  EMS 연구소 / Software Developer (2019.04 ~ 2023.03) 
+- **NKIA** @NKIA  EMS 연구소 / Software Developer (2019.04 ~ 2022.03) 
 - **ESE Co., Ltd** @ESE Co., Ltd  스마트시티 RINO 솔루션개발본부 / Software Developer (2016.08 ~ 2018.09)
 - **NHN** @NHN Software Test Engineer / 인턴 (2015.04 ~ 2015.10)
 
