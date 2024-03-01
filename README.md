@@ -21,7 +21,7 @@
   
 ✨ *For More Info...* **[BLOG](https://yunyoung1819.tistory.com/)**
 
-- **레진엔터테인먼트** @레진코믹스 서비스개발팀 / Software Developer (현재)
+- **레진엔터테인먼트** @레진코믹스 서비스 개발팀 / Software Developer (현재)
 - **NKIA** @NKIA  EMS 연구소 / Software Developer 
 - **ESE Co., Ltd** @ESE Co., Ltd  스마트시티 RINO 솔루션개발본부 / Software Developer
 - **NHN** @NHN Software Test Engineer / 인턴 
