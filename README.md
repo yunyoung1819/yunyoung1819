@@ -12,7 +12,7 @@
 ---
 
 
-### 💻Tech Stack
+### 💻 Tech Stack
 [![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://www.java.com/ko/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Java&logoColor=#7F52FF)](https://kotlinlang.org/)
 [![JPA Badge](https://img.shields.io/badge/JPA-f06595?style=flat-square&logo=Hibernate&logoColor=white)](https://www.oracle.com/java/technologies/persistence-jsp.html)
@@ -24,16 +24,15 @@
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
 [![AWS Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![MS Azure Badge](https://img.shields.io/badge/MS_Azure-235A97?style=flat-square&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/ko-kr/)
-[![Github Badge](https://img.shields.io/badge/GitHub-100000.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/)   
 ![Docker](https://img.shields.io/badge/Docker-235A97?style=flat-square&logo=Docker&logoColor=#4479A1)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=0000)
-![Git](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=gitHub&logoColor=0000)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/)   
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=000000)
 
 
 
 
-### 🧑‍💻 Career
+### 💼 Career
 - **레진엔터테인먼트** @레진코믹스 서비스 개발팀 / Software Developer (현재)
 - **NKIA** @NKIA  EMS 연구소 / Software Developer 
 - **ESE Co., Ltd** @ESE Co., Ltd  스마트시티 RINO 솔루션개발본부 / Software Developer
@@ -53,7 +52,7 @@
 
 
 
-### 🏅 Certificates
+### 📋 Certificates
 - **정보처리기사**
 - **리눅스마스터 2급**
 - **한국사능력검정 3급**
@@ -72,7 +71,6 @@
 
 <div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunyoung1819&langs_count=10&layout=compact)](https://github.com/yunyoung1819) 
 [![Yun Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunyoung1819&show_icon=true)](https://github.com/anuraghazra/github-readme-stats)  ﻿
 
 </div>
