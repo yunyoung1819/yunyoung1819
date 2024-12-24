@@ -8,6 +8,7 @@
 🎓 KAIST Univ AI Machine Learning Intensive Course Completion
 <br>
 🎓 BitCamp. Java Advanced Programming 79th
+<br>
 
 ---
 
@@ -25,8 +26,7 @@
 [![AWS Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![MS Azure Badge](https://img.shields.io/badge/MS_Azure-235A97?style=flat-square&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/ko-kr/)
 ![Docker](https://img.shields.io/badge/Docker-235A97?style=flat-square&logo=Docker&logoColor=#4479A1)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=0000)
-[![Github Badge](https://img.shields.io/badge/GitHub-100000.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/)   
+![Github Badge](https://img.shields.io/badge/GitHub-100000.svg?style=flat-square&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=000000)
 
 
