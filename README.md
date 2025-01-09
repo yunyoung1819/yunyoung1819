@@ -12,33 +12,33 @@
 
 ---
 
-
 ### 💻 Tech Stack
 [![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://www.java.com/ko/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Java&logoColor=#7F52FF)](https://kotlinlang.org/)
-[![JPA Badge](https://img.shields.io/badge/JPA-f06595?style=flat-square&logo=Hibernate&logoColor=white)](https://www.oracle.com/java/technologies/persistence-jsp.html)
-[![Spring Badge](https://img.shields.io/badge/Spring-51cf66?style=flat-square&logo=Spring&logoColor=white)](https://spring.io/)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-색상?style=flat-square&logo=SpringBoot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-F24E1E?style=flat-square&logo=MySQL&logoColor=#4479A1)
-[![ElasticSearch Badge](https://img.shields.io/badge/ElasticSearch-4c6ef5?style=flat-square&logo=ElasticSearch&logoColor=white)](https://www.elastic.co/kr/?ultron=B-Stack-Trials-APJ-KR-Exact&gambit=Stack-Core&blade=adwordss&hulk=paid&Device=c&thor=elasticsearch&gclid=CjwKCAjw5c6LBhBdEiwAP9ejG6teiznxdKJInlRwzb4iYeVBQTbXOeTcL37juZWjr_nKNPlSb0vXixoCygwQAvD_BwE)
-[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://javascript.info/)
-[![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
-[![AWS Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![MS Azure Badge](https://img.shields.io/badge/MS_Azure-235A97?style=flat-square&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/ko-kr/)
-![Docker](https://img.shields.io/badge/Docker-235A97?style=flat-square&logo=Docker&logoColor=#4479A1)
-![Github Badge](https://img.shields.io/badge/GitHub-100000.svg?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=000000)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)](https://kotlinlang.org/)
+[![JPA Badge](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white)](https://hibernate.org/)
+[![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)](https://spring.io/)
+[![SpringBoot Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
+[![Redis Badge](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)](https://redis.io/)
+[![Kafka Badge](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=Apache-Kafka&logoColor=white)](https://kafka.apache.org/)
+[![ElasticSearch Badge](https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=ElasticSearch&logoColor=white)](https://www.elastic.co/)
+[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://javascript.info/)
+[![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](https://reactjs.org/)
+[![AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)](https://www.docker.com/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/)
+[![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)](https://www.figma.com/)
 
-
-
+---
 
 ### 💼 Career
 - **레진엔터테인먼트** @레진코믹스 서비스 개발팀 / Software Developer (현재)
-- **NKIA** @NKIA  EMS 연구소 / Software Developer 
-- **ESE Co., Ltd** @ESE Co., Ltd  스마트시티 RINO 솔루션개발본부 / Software Developer
+- **NKIA** @NKIA EMS 연구소 / Software Developer 
+- **ESE Co., Ltd** @ESE Co., Ltd 스마트시티 RINO 솔루션개발본부 / Software Developer
 - **NHN** @NHN Software Test Engineer / 인턴 
 
-
+---
 
 ### 🏅 History
 - **오픈소스 컨트리뷰션 아카데미** @과학기술정보통신부 / 정보통신산업진흥원 (2024.04.01 ~ 2024.05.17)
@@ -50,18 +50,20 @@
 - **DND 6기** @DND  Backend 개발자 (2022.01 ~ 2022.02) 
 - **디프만 10기** @Depromeet  Backend 개발자 (2021.09 ~ 2021.12)
 
-
+---
 
 ### 📋 Certificates
 - **정보처리기사**
 - **리눅스마스터 2급**
 - **한국사능력검정 3급**
 
-
+---
 
 ### 🧑‍💻 Organization
-<a href = "https://depromeet.com"><img src = "https://img.shields.io/badge/Depromeet-003D7D?style=flat-square"></a>
+<a href="https://depromeet.com"><img src="https://img.shields.io/badge/Depromeet-003D7D?style=flat-square"></a>
+<a href="https://dnd.ac"><img src="https://img.shields.io/badge/DND-FF7300?style=flat-square"></a>
 
+---
 
 ✨ *For More Info...* **[BLOG](https://yunyoung1819.tistory.com/)**
   
@@ -71,8 +73,6 @@
 
 <div>
 
-[![Yun Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunyoung1819&show_icon=true)](https://github.com/anuraghazra/github-readme-stats)  ﻿
+[![Yun Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunyoung1819&show_icon=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
-
