@@ -17,7 +17,7 @@
 ---
 
 ### 💻 Tech Stack
-![Java Logo](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/2048px-Java_programming_language_logo.svg.png)
+[![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://www.java.com/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)](https://kotlinlang.org/)
 [![JPA Badge](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white)](https://hibernate.org/)
 [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)](https://spring.io/)
@@ -38,12 +38,12 @@
 ---
 
 ### 💼 Career
-| **Company**             | **Role**                        | **Duration**               |
-|--------------------------|----------------------------------|---------------------------|
-| **레진엔터테인먼트**     | Software Developer             | 현재                      |
-| **NKIA**                 | Software Developer             | 2년                      |
-| **ESE Co., Ltd**         | Software Developer             | 1년                      |
-| **NHN**                  | Software Test Engineer (Intern) | 6개월     
+| **Company**             | **Role**                        |
+|--------------------------|----------------------------------|
+| **레진엔터테인먼트**     | Software Developer             | 
+| **NKIA**                 | Software Developer             | 
+| **ESE Co., Ltd**         | Software Developer             | 
+| **NHN**                  | Software Test Engineer (Intern) | 
 
 ---
 
