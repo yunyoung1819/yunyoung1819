@@ -1,7 +1,11 @@
 # 윤 영 *YUN YOUNG*
 
-소프트웨어를 통해 세상에 유용한 가치를 창출하는 것을 보람으로 삼고 있는 소프트웨어 개발자입니다. 사람과 사회에 대한 폭넓은 이해를 바탕으로 글로벌 마켓에 서비스하는 소프트웨어를 개발하는 개발자를 지향합니다.
+> **소프트웨어로 세상에 유용한 가치를 창출하는 개발자**  
+> 사람과 사회를 이해하고 글로벌 마켓에 기여할 수 있는 소프트웨어 개발을 목표로 합니다.
 
+---
+
+### 🧑‍💻 About Me
 🧑‍💻 Software Backend Developer  
 🏛 Namseoul Univ. Computer Engineering
 <br>
@@ -13,7 +17,7 @@
 ---
 
 ### 💻 Tech Stack
-[![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://www.java.com/ko/)
+![Java Logo](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/2048px-Java_programming_language_logo.svg.png)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)](https://kotlinlang.org/)
 [![JPA Badge](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white)](https://hibernate.org/)
 [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)](https://spring.io/)
@@ -30,17 +34,20 @@
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/)
 [![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)](https://www.figma.com/)
 
+
 ---
 
 ### 💼 Career
-- **레진엔터테인먼트** @레진코믹스 서비스 개발팀 / Software Developer (현재)
-- **NKIA** @NKIA EMS 연구소 / Software Developer 
-- **ESE Co., Ltd** @ESE Co., Ltd 스마트시티 RINO 솔루션개발본부 / Software Developer
-- **NHN** @NHN Software Test Engineer / 인턴 
+| **Company**             | **Role**                        | **Duration**               |
+|--------------------------|----------------------------------|---------------------------|
+| **레진엔터테인먼트**     | Software Developer             | 현재                      |
+| **NKIA**                 | Software Developer             | 2년                      |
+| **ESE Co., Ltd**         | Software Developer             | 1년                      |
+| **NHN**                  | Software Test Engineer (Intern) | 6개월     
 
 ---
 
-### 🏅 History
+### 🏅 Achievements & Activities
 - **오픈소스 컨트리뷰션 아카데미** @과학기술정보통신부 / 정보통신산업진흥원 (2024.04.01 ~ 2024.05.17)
 - **디프만 14기** @Depromeet  Backend 개발자 (2023.11 ~ 2024.02) 
 - **JUNCTION ASIA 2023** @JUCTION Backend 개발자 (2023.08.18 ~ 2023.08.20)
@@ -65,14 +72,12 @@
 
 ---
 
-✨ *For More Info...* **[BLOG](https://yunyoung1819.tistory.com/)**
-  
-<br>
+## 🌟 Stats & More
+
+[![Yun Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunyoung1819&show_icon=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunyoung1819&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<div>
 
-[![Yun Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunyoung1819&show_icon=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+✨ *For More Info...* **[BLOG](https://yunyoung1819.tistory.com/)**
+  
