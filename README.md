@@ -1,9 +1,9 @@
 # 윤 영 *YUN YOUNG*
 
-> **소프트웨어로 세상에 유용한 가치를 창출하는 개발자**  
+> 소프트웨어로 세상에 유용한 가치를 창출하는 개발자
 > 사람과 사회를 이해하고 글로벌 마켓에 기여할 수 있는 소프트웨어 개발을 목표로 합니다.
 
----
+
 
 ### 🧑‍💻 About Me
 🧑‍💻 Software Backend Developer  
@@ -72,12 +72,17 @@
 
 ---
 
-## 🌟 Stats & More
+### 🌟 Stats & More
 
-[![Yun Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunyoung1819&show_icon=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunyoung1819&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<div>
+
+[![Yun Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunyoung1819&show_icon=true)](https://github.com/anuraghazra/github-readme-stats)  ﻿
+
+</div>
 
 ✨ *For More Info...* **[BLOG](https://yunyoung1819.tistory.com/)**
   
