@@ -14,7 +14,7 @@
 🎓 BitCamp. Java Advanced Programming 79th
 <br>
 
----
+
 
 ### 💻 Tech Stack
 [![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://www.java.com/)
@@ -70,7 +70,7 @@
 <a href="https://depromeet.com"><img src="https://img.shields.io/badge/Depromeet-003D7D?style=flat-square"></a>
 <a href="https://dnd.ac"><img src="https://img.shields.io/badge/DND-FF7300?style=flat-square"></a>
 
----
+
 
 ### 🌟 Stats & More
 
@@ -83,6 +83,9 @@
 [![Yun Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunyoung1819&show_icon=true)](https://github.com/anuraghazra/github-readme-stats)  ﻿
 
 </div>
+
+
+
 
 ✨ *For More Info...* **[BLOG](https://yunyoung1819.tistory.com/)**
   
