@@ -48,6 +48,7 @@
 ---
 
 ### 🏅 Achievements & Activities
+- **디프만 16기** @Depromeet  Backend 개발자 (2025.01 ~ 2025.04) 
 - **오픈소스 컨트리뷰션 아카데미** @과학기술정보통신부 / 정보통신산업진흥원 (2024.04.01 ~ 2024.05.17)
 - **디프만 14기** @Depromeet  Backend 개발자 (2023.11 ~ 2024.02) 
 - **JUNCTION ASIA 2023** @JUCTION Backend 개발자 (2023.08.18 ~ 2023.08.20)
