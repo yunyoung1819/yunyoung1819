@@ -5,7 +5,7 @@
 
 
 
-### 🧑‍💻 About Me
+### About Me
 🧑‍💻 Software Backend Developer  
 🏛 Namseoul Univ. Computer Engineering
 <br>
