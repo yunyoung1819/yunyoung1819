@@ -42,7 +42,7 @@
 |--------------------------|----------------------------------|----------------------------------|
 | **레진엔터테인먼트**          | 레진코믹스 서비스 개발팀               | Software Developer               | 
 | **NKIA**                 | EMS 연구소                         | Software Developer               | 
-| **ESE Co., Ltd**         | 스마트시티 IoT 솔루션 개발 본부         | Software Developer               | 
+| **ESE Co., Ltd**         | 스마트시티 IoT 솔루션 개발 본부         | Software Solution Engineer       | 
 | **NHN (엔에이치엔)**        | 모바일 1팀                         | Software Test Engineer (QA)  | 
 
 ---
