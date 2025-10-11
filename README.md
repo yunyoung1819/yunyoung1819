@@ -35,6 +35,37 @@
 [![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)](https://www.figma.com/)
 
 
+---
+
+### 💼 Career
+| **Company**              | **Team**                         | **Role**                         | 
+|--------------------------|----------------------------------|----------------------------------| 
+| **무신사**                 | 추천 랭킹 개발팀                     | Software Developer               |
+| **레진엔터테인먼트**          | 레진코믹스 서비스 개발팀               | Software Developer               | 
+| **NKIA**                 | EMS 연구소                         | Software Developer               |
+| **ESE Co., Ltd**         | 스마트시티 IoT 솔루션 개발 본부         | Software Developer               |
+| **NHN (엔에이치엔)**        | 모바일 1팀                         | Software Test Engineer  |
+---
+
+### 🏅 Achievements & Activities
+- **디프만 16기** @Depromeet  Backend 개발자 (2025.01 ~ 2025.04) 
+- **오픈소스 컨트리뷰션 아카데미** @과학기술정보통신부 / 정보통신산업진흥원 (2024.04.01 ~ 2024.05.17)
+- **디프만 14기** @Depromeet  Backend 개발자 (2023.11 ~ 2024.02) 
+- **JUNCTION ASIA 2023** @JUCTION Backend 개발자 (2023.08.18 ~ 2023.08.20)
+- **디프만 13기** @Depromeet  Backend 개발자 (2023.03 ~ 2023.07) 
+- **디프만 12기** @Depromeet  커뮤니티 운영진 (2022.07 ~ 2023.01) 
+- **디프만 11기** @Depromeet  PM | Backend 개발자 (2022.03 ~ 2022.07)
+- **DND 6기** @DND  Backend 개발자 (2022.01 ~ 2022.02) 
+- **디프만 10기** @Depromeet  Backend 개발자 (2021.09 ~ 2021.12)
+
+---
+
+### 📋 Certificates
+- **정보처리기사**
+- **리눅스마스터 2급**
+- **한국사능력검정 3급**
+
+---
 
 ### 🧑‍💻 Organization
 <a href="https://depromeet.com"><img src="https://img.shields.io/badge/Depromeet-003D7D?style=flat-square"></a>
