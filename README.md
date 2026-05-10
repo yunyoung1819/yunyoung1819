@@ -38,13 +38,14 @@
 ---
 
 ### 💼 Career
-| **Company**              | **Team**                         | **Role**                         | 
-|--------------------------|----------------------------------|----------------------------------| 
-| **무신사**                 | 추천 랭킹 플랫폼 개발팀                     | Software Developer               |
-| **레진엔터테인먼트**          | 레진코믹스 서비스 개발팀               | Software Developer               | 
-| **NKIA**                 | EMS 연구소                         | Software Developer               |
-| **ESE Co., Ltd**         | 스마트시티 IoT 솔루션 개발 본부         | Software Developer               |
-| **NHN (엔에이치엔)**        | 모바일 1팀                         | Software Test Engineer  |
+| **Company**              | **Team**            | **Role**                      | **Duration**            | 
+|--------------------------|---------------------|-------------------------------|-------------------------| 
+| **비상교육**                | AI 플랫폼 개발팀          | Software Developer | 2025.11.24 ~ 현재 |
+| **무신사**                 | 추천 랭킹 플랫폼 개발팀       | Software Developer            | 2025.05.28 ~ 2025.08.26 |
+| **레진엔터테인먼트**          | 레진코믹스 서비스 개발팀       | Software Developer            | 2023.09.18 ~ 2024.11.27 |
+| **NKIA**                 | EMS 연구소             | Software Developer            | 2019.04.15 ~ 2023.03.03 |
+| **ESE Co., Ltd**         | 스마트시티 IoT 솔루션 개발 본부 | Software Developer            | 2016.08.08 ~ 2018.09.13 |
+| **NHN (엔에이치엔)**        | 모바일 1팀              | Software Test Engineer  | 2015.04.21 ~ 2015.10.31 |
 ---
 
 ### 🏅 Achievements & Activities
